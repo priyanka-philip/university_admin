@@ -17,10 +17,16 @@ abdn-admin
 Api
 --------
 Api folder added in same project folder.
+
 Added 2 security feature
+
+
               1.key and value 
+              
                   ->open postman and put key and value under headers.(key=X-API-KEY ,value=test_uni)
+                  
               2.basic auth 
+              
                   ->add username and password under authorization tab. select basic auth on type option.
                       username=admin password=1234
   api link
